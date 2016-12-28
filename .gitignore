@@ -1,0 +1,13 @@
+bower_components
+node_modules
+npm-debug.log
+
+# IDE files
+nbproject
+.idea
+.netbeans.xml
+
+# Dist files
+/css/
+/js/
+/svg/

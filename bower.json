@@ -1,0 +1,26 @@
+{
+  "name": "flask",
+  "version": "0.1.0",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "temp",
+    "test"
+  ],
+  "dependencies": {
+    "d3-4": "https://github.com/mbostock-bower/d3-bower/archive/v4.4.0.zip",
+    "normalize-css": "^5.0.0",
+    "jquery": "~1.11.1",
+    "lodash": "^3.0.0",
+    "velocity": "^1.2.3",
+    "bluebird": "^3.4.7"
+  },
+  "devDependencies": {
+    "bourbon": "^4.2.6",
+    "breakpoint-sass": "^2.7.0",
+    "mathsass": "^0.9.5",
+    "modernizr-mixin": "^3.0.7",
+    "singularity": "^1.7.0"
+  }
+}
